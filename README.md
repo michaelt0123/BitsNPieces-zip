@@ -12,11 +12,11 @@ requires continuous maintenance, the XML file remains maintenance free...
 
 Feedback:
 Please feel free to download the zip file which contains the solution for the Bits 'N' Pieces project, and try out the executable which
-can be found in the following path: ..\PGIS\PGIS\bin\Release\PGIS.exe
+can be found in the following path: ..\PGIS\PGIS\bin\Release\PGIS.exe    
 Your feedback is greatly appreciated so please leave comments and questions at your convenience.
 
-Project Details:
-Version: 1.0
-IDE: Visual Studio 2010
-Framework: .NET
+Project Details:    
+Version: 1.0    
+IDE: Visual Studio 2010    
+Framework: .NET    
 Language: C#
